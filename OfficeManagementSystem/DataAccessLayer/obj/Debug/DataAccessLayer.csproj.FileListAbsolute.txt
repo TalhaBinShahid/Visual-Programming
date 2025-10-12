@@ -1,0 +1,18 @@
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\DataAccessLayer\bin\Debug\eddee.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\DataAccessLayer\bin\Debug\eddee.pdb
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\DataAccessLayer\bin\Debug\eddee.dll
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\DataAccessLayer\bin\Debug\eddee.pdb
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,12 @@
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\AppProps\bin\Debug\eddee.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\AppProps\bin\Debug\eddee.pdb
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\AppProps\obj\Debug\eddee.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\AppProps\obj\Debug\eddee.pdb
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\AppProps\bin\Debug\eddee.dll
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\AppProps\bin\Debug\eddee.pdb
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\AppProps\obj\Debug\eddee.dll
+C:\Users\talha\Downloads\OfficeManagementSystem\OfficeManagementSystem\AppProps\obj\Debug\eddee.pdb
